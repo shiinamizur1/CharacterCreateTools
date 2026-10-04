@@ -1,0 +1,15 @@
+schema_version = "1.0.0"
+
+id = "vrm_chara_tool"
+version = "0.5.0"
+name = "VRM Chara Tool"
+tagline = "VRM character editor for parts, colors, shape and expressions"
+maintainer = "niyak"
+type = "add-on"
+blender_version_min = "4.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+
+tags = ["Character"]
